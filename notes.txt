@@ -2,7 +2,7 @@
 
 # Github Repository publish
 git add .
-git commit -m "notes.txt"
+git commit -m "profile_image_widget update"
 git push origin main
 
 # Pub.dev publish
