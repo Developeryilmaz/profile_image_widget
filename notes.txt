@@ -1,0 +1,12 @@
+
+
+# Github Repository publish
+git add .
+git commit -m "notes.txt"
+git push origin main
+
+# Pub.dev publish
+dart pub get
+dart analyze
+dart pub publish --dry-run
+dart pub publish
