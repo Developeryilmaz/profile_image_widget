@@ -1,49 +1,59 @@
+<h1 align="center">📌 Changelog</h1>
+
+<p align="center">
+  <b>All major changes are documented here.</b>  
+  <br>
+  <i>Using <a href="https://semver.org/">Semantic Versioning</a></i> 🚀
+</p>
 
 ---
 
-### 📌 **CHANGELOG.md (Updated with Your Company Name)**
-```markdown
-# 📌 Changelog
-
-All major changes are documented in this file. **Semantic Versioning** is followed.
-
-## [0.0.1] - 2024-02-19
+## 🔰 [0.0.1] - 2024-02-19
 ### 🚀 Initial Release by **Pharrax Software Yazilim Limited Sirketi - YILMAZ ER**
-- Added `ProfileImageWidget`.
-- Supports `imageUrl`, `size`, and `shape` parameters for profile images.
-- Displays a default icon if an error occurs.
-- Sample project added under the `example/` directory.
-- Released under **MIT License**.
+✔️ Added `ProfileImageWidget`  
+✔️ Supports `imageUrl`, `size`, and `shape` parameters  
+✔️ Default icon is displayed on error  
+✔️ Sample project added in `example/` directory  
+✔️ Released under **MIT License**  
 
-## [0.0.2] - 2024-03-01
-### 🛠️ Updates
-- Added a `loading` indicator while the profile image loads.
-- Introduced `borderColor` and `borderWidth` parameters.
-- Improved error messages and handling.
-- Fixed all issues reported by `dart analyze`.
+---
 
-## [0.1.0] - 2024-03-15
-### 🎨 New Features
-- Added support for both **circle** and **square** profile images.
-- Introduced `tooltip` support for the widget.
-- **Improved performance** by integrating `CachedNetworkImage`.
+## 🔧 [0.0.2] - 2024-03-01
+### 🛠️ Updates & Improvements
+✔️ Added `loading` indicator while images load  
+✔️ Introduced `borderColor` & `borderWidth` parameters  
+✔️ Improved error handling & messages  
+✔️ Fixed all `dart analyze` issues  
+
+---
+
+## 🎨 [0.1.0] - 2024-03-15
+### ✨ New Features
+✔️ Now supports both **circle** & **square** profile images  
+✔️ Added `tooltip` feature for accessibility  
+✔️ **Improved performance** using `CachedNetworkImage`  
 
 ### 🐞 Bug Fixes
-- Fixed misalignment of the default image.
-- Resolved an issue where the `size` parameter caused a null exception.
-
-## [0.2.0] - 2024-04-01
-### 🔥 Major Update
-- Added `fadeInDuration` and `fadeOutDuration` properties.
-- Introduced `errorWidget` customization.
-- **Improved documentation.**
-- **Optimized performance.**
+🐛 Fixed alignment issues with the default placeholder image  
+🐛 Fixed null exception when `size` parameter was missing  
 
 ---
 
-📌 **Notes:**  
-- **[X.Y.Z]** format follows `MAJOR.MINOR.PATCH` versioning.  
-- **MINOR** versions increase for new features (e.g., `0.1 → 0.2`).  
-- **PATCH** versions are for bug fixes (`0.2.0 → 0.2.1`).  
-- **MAJOR** updates occur when breaking changes are introduced (`0 → 1 → 2`).  
-- For more details, check out [Semantic Versioning](https://semver.org/). 🚀
+## 🔥 [0.2.0] - 2024-04-01
+### ⚡ Major Update
+✔️ Added `fadeInDuration` & `fadeOutDuration` options  
+✔️ Introduced `errorWidget` customization  
+✔️ **Enhanced documentation** 📖  
+✔️ **Optimized performance** 🚀  
+
+---
+
+### 📌 **Versioning Notes**
+📌 We follow **[Semantic Versioning](https://developer-yilmazer.com/)**:  
+- **MAJOR** (`1.0.0 → 2.0.0`) → Breaking changes  
+- **MINOR** (`0.1.0 → 0.2.0`) → New features  
+- **PATCH** (`0.2.0 → 0.2.1`) → Bug fixes  
+
+<p align="center">
+ 🚀 <b>Stay updated & keep coding!</b> 🎉
+</p>
