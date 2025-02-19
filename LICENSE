@@ -1,22 +1,25 @@
-# 📜 MIT License
+<h1 align="center">📜 MIT License</h1>
 
-** Copyright (c) 2024 Pharrax Software Yazilim Limited Sirketi - YILMAZ ER **
-
-This software and its associated documentation are provided free of charge. Users may use, copy, modify, and distribute the software without restrictions under the following conditions:
-
-✅ **Permissions:**  
-- Free for personal and commercial use.  
-- Modifications and redistribution are allowed.  
-- Can be sublicensed and sold.
-
-🚨 **Disclaimer:**  
-- The software is provided **"as is"** without any warranty.  
-- The developers are not responsible for any damages resulting from its use.  
+<p align="center">
+  <b>Copyright (c) 2024</b>
+  <br>
+  <b>Pharrax Software Yazilim Limited Sirketi - YILMAZ ER</b>
+</p>
 
 ---
 
-📌 **Full License Text** 📌  
+### ✅ **Permissions**
+✔️ Free for **personal & commercial** use  
+✔️ Modify, distribute, and sublicense  
+✔️ Sell copies of the software  
 
+### 🚫 **Restrictions**
+❌ Cannot hold developers **liable** for any issues  
+❌ The software is provided **"as is"** without warranty  
+
+---
+
+### 📌 **Full License Text**
 ```plaintext
 MIT License
 
@@ -39,3 +42,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+---
