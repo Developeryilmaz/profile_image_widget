@@ -1,7 +1,7 @@
 # 📌 Changelog
 
 **All major changes are documented here.**  
-*Using [Semantic Versioning](https://semver.org/)* 🚀
+*Using 0.0.1 (https://semver.org/)* 🚀
 
 ---
 
