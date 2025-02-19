@@ -1,40 +1,40 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<h1 align="center">🚀 Profile Image Widget</h1>
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+<p align="center">
+  A simple and customizable profile image widget for Flutter.
+  <br>
+  <b>Developed by</b>  
+  <b>Pharrax Software Yazilim Limited Sirketi - YILMAZ ER</b>
+</p>
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+<p align="center">
+  <a href="https://pub.dev/packages/profile_image_widget">
+    <img src="https://img.shields.io/pub/v/profile_image_widget.svg" alt="Pub Version">
+  </a>
+  <a href="https://github.com/yourusername/profile_image_widget/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/yourusername/profile_image_widget/issues">
+    <img src="https://img.shields.io/github/issues/yourusername/profile_image_widget.svg" alt="Issues">
+  </a>
+  <a href="https://github.com/yourusername/profile_image_widget">
+    <img src="https://img.shields.io/github/stars/yourusername/profile_image_widget.svg?style=social" alt="GitHub Stars">
+  </a>
+</p>
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+---
 
-## Features
+## ✨ **Features**
+✅ Supports circular and square profile images  
+✅ Handles image loading errors gracefully  
+✅ Customizable **size, border, and shape**  
+✅ Uses **network images** with placeholders  
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+---
 
-## Getting started
+## 📦 **Installation**
+Add this to your `pubspec.yaml` file:
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
-# profile_image_widget
+```yaml
+dependencies:
+  profile_image_widget: ^1.0.0
